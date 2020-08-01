@@ -1,0 +1,2 @@
+*.framework/NMapsMap filter=lfs diff=lfs merge=lfs -text
+Trovi/Pods/NMapsMap/framework/NMapsMap.framework/NMapsMap filter=lfs diff=lfs merge=lfs -text
