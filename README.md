@@ -1,3 +1,5 @@
+<br>
+<br>
 # ✈️ 혼행객들을 위한 여행 동행자 찾기 서비스 Trovi ✈️
 <br>
 
@@ -39,7 +41,7 @@
 
 * Trovi는 혼행객들을 위한 여행 동행자 찾기 서비스입니다.
 
-<img src="./images/appConcept.png" width="300" height="300">
+<img src="./images/appConcept.png" width="600" height="300">
 </br>
 
 <br>
@@ -48,9 +50,7 @@
 
 
 ## 🛠 개발 환경 및 사용한 라이브러리 (Development Environment and Using Library)
-</br>
 
-<br>
 ### Development Environment
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg) [![Creative Commons License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](http://creativecommons.org/licenses/by/4.0/) <img src="https://camo.githubusercontent.com/068f624eb1aea7290293a41532983b1519da346d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d31332e332d6c6967687467726579"> <img src="https://camo.githubusercontent.com/09ed72f0fef2987a6ea9ddb10106cd2a14d87944/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58636f64652d31312e332d626c7565"> 
