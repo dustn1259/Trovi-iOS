@@ -1,6 +1,8 @@
 <br>
 <br>
+
 # ✈️ 혼행객들을 위한 여행 동행자 찾기 서비스 Trovi ✈️
+
 <br>
 
 <img src="./images/troviIcon.png" width="300" height="300">
@@ -41,9 +43,10 @@
 
 * Trovi는 혼행객들을 위한 여행 동행자 찾기 서비스입니다.
 
-<img src="./images/appConcept.png" width="600" height="300">
+<img src="./images/appConcept.png" width="800" height="300">
 </br>
 
+<br>
 <br>
 
 
