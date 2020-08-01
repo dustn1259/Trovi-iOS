@@ -1,6 +1,6 @@
 # ✈️ 혼행객들을 위한 여행 동행자 찾기 서비스 Trovi ✈️
 
-![troviIcon](/Users/hwangji/Documents/GitHub/Trovi-iOS/images/troviIcon.png )
+![troviIcon](/Trovi-iOS/images/troviIcon.png )
 
 
 
