@@ -7,16 +7,18 @@
 <br>
 
 > <b>'혼행객들을 위한 여행 동행자 찾기 서비스', Trovi 입니다. </b> 
-> 개인화 되어가는 사회 자유여행객들의 증가
-> 여행지의 다양화 경제적 부담과 안전 우려 등으로 인한 여행 커뮤니티 활성화
-> 커뮤니티가 너무 다양해서 찾기가 힘들다는 점 가입 뿐만 아니라， 카페 운영자에 의해 등업 후 이용할 수 있다는 점 직접적인 소통의 어려움
-> 커뮤니티가 너무 다양해서 찾기가 힘들다는 점 가입 뿐만 아니라， 카페 운영자에 의해 등업 후 이용할 수 있다는 점 직접적인 소통의 어려움
-> 느낀 적 있으신가요?
+> 개인화 되어가는 사회 자유여행객들의 증가<br>
+> 여행지의 다양화 경제적 부담과 안전 우려 등으로 인한 여행 커뮤니티 활성화<br>
+> 커뮤니티가 너무 다양해서 찾기가 힘들다는 점 가입 뿐만 아니라， 카페 운영자에 의해 등업 후 이용할 수 있다는 점 직접적인 소통의 어려움<br>
+> 커뮤니티가 너무 다양해서 찾기가 힘들다는 점 가입 뿐만 아니라， 카페 운영자에 의해 등업 후 이용할 수 있다는 점 직접적인 소통의 어려움<br>
+> 느낀 적 있으신가요?<br>
 > 
 >
 > <b>이제 당신을 위한 동행객 찾기 서비스 Trovi를 이용해보세요.</b>
 
 </br>
+
+<br>
 
 ## 📃 목차
 
@@ -25,7 +27,9 @@
 - [간단한 화면 설명](🏞 간단한 화면 설명)
 - [팀원소개](🍎 iOS Developer)
 
+</br>
 
+<br>
 
 ## 🔍 Project
 
@@ -36,18 +40,24 @@
 * Trovi는 혼행객들을 위한 여행 동행자 찾기 서비스입니다.
 
 <img src="./images/appConcept.png" width="300" height="300">
+</br>
 
+<br>
 
 
 
 
 ## 🛠 개발 환경 및 사용한 라이브러리 (Development Environment and Using Library)
+</br>
 
+<br>
 ### Development Environment
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange.svg) [![Creative Commons License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](http://creativecommons.org/licenses/by/4.0/) <img src="https://camo.githubusercontent.com/068f624eb1aea7290293a41532983b1519da346d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d31332e332d6c6967687467726579"> <img src="https://camo.githubusercontent.com/09ed72f0fef2987a6ea9ddb10106cd2a14d87944/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58636f64652d31312e332d626c7565"> 
 
+</br>
 
+<br>
 
 ### Using Library  
 
@@ -59,7 +69,9 @@
 
 
 
+</br>
 
+<br>
 
 ## 👏 기능 소개 (Function Introduction)
 
@@ -70,7 +82,9 @@
 |                 | 1        | 회원가입 | ⭕️            |                                        |
 
  
+</br>
 
+<br>
 
 
 
@@ -82,7 +96,9 @@
 
 
 
+</br>
 
+<br>
 
 
 
@@ -99,3 +115,4 @@
 
 > 트로비 개발
 
+</br>
