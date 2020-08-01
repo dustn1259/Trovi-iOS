@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0319A555-3D24-46C8-91A5-AF6D9F8EB9E1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8D5EF5F-C308-4BCE-B8E5-CDF3208494C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Main_TableView/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DF62B7A-23BC-403E-B8C5-D0BBE0AF9C0A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "kakaoFirebase/searchCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "searchCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4DF62B7A-23BC-403E-B8C5-D0BBE0AF9C0A - ffddbe9d50b6f10f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trovi.searchCell.titles.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Trovi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son-yelyn/Desktop/%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A6%20%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1%E1%84%83%E1%85%A1/kakaoFirebase/searchCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4DF62B7A-23BC-403E-B8C5-D0BBE0AF9C0A - 2888280928909503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trovi.searchCell.titles.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Trovi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son-yelyn/Desktop/%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A6%20%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1%E1%84%83%E1%85%A1/kakaoFirebase/searchCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "4DF62B7A-23BC-403E-B8C5-D0BBE0AF9C0A - d93b395aeb74a812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trovi.searchCell.titles.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Trovi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son-yelyn/Desktop/%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A6%20%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1%E1%84%83%E1%85%A1/kakaoFirebase/searchCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "4DF62B7A-23BC-403E-B8C5-D0BBE0AF9C0A - ca8fa913d715a603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trovi.searchCell.titles.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Trovi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son-yelyn/Desktop/%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A6%20%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1%E1%84%83%E1%85%A1/kakaoFirebase/searchCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "4DF62B7A-23BC-403E-B8C5-D0BBE0AF9C0A - 999ddfacf37c106d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trovi.searchCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Trovi.searchCell"
+                  moduleName = "Trovi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son-yelyn/Desktop/%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A6%20%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1%E1%84%83%E1%85%A1/kakaoFirebase/searchCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "4DF62B7A-23BC-403E-B8C5-D0BBE0AF9C0A - 5235d0382b4f44a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trovi.searchCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Trovi.searchCell&gt;"
+                  moduleName = "Trovi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/son-yelyn/Desktop/%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A6%20%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1%E1%84%83%E1%85%A1/kakaoFirebase/searchCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
