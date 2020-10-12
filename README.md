@@ -101,7 +101,7 @@
 <img src="https://user-images.githubusercontent.com/56102421/86921053-8080be00-c165-11ea-8ed9-b2899165d05e.jpeg" width="15%"> 
 
 * [지은](https://github.com/hwangJi-dev)
-
+* [권연수] (https://github.com/dustn1259)
 > 트로비 개발
 
 </br>
