@@ -23,7 +23,7 @@
 
 ## 🔍 Project
 
-* <b> 서울여자대학교 GURU2 iOS Hackathon Project "TROVI"
+* <b> GURU2 iOS Hackathon Project "TROVI"
 
 * 프로젝트 기간: 2020.01.14 ~ 2020.01.28
 
